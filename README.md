@@ -25,6 +25,7 @@ Se agrega tambien el resultado del test: Ejercicio_3.postman_test_run.json
 
 
 
+
 ## Proceso de instalación y prueba del repositorio:
 
 
@@ -96,6 +97,8 @@ npm install -g newman-reporter-htmlextra
 ```
 
 
+
+
 ### Instalación del repositorio:  
 
 1. Clona este repositorio en tu local: (si no tienes git instalado deberás descargarlo y descomprimirlo)
@@ -115,6 +118,7 @@ cd PRUEBA_TECNICA_MERLIN_SOFTWARE
 ```bash
 npm install
 ```
+
 
 
 ### Ejecución de pruebas Ejercicio 2:
@@ -151,9 +155,7 @@ newman run Ejercicio_3.postman_collection.json -e Ambiente_Testing.postman_envir
 Para ejecutar los test con Postman:
 (se adjuntan los resultados del test en postman: Ejercicio_3.postman_test_run.json)
 
-Importe la colección: Ejercicio_3.postman_collection.json
-
-Importe el ambiente: Ambiente_Testing.postman_environment.json
-
-Ejecute la Colección
+1.Importe la colección: Ejercicio_3.postman_collection.json
+2.Importe el ambiente: Ambiente_Testing.postman_environment.json
+3.Ejecute la Colección
 
