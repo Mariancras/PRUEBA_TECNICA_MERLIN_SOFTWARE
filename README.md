@@ -98,7 +98,7 @@ npm install -g newman-reporter-htmlextra
 
 
 
-
+***
 ### Instalación del repositorio:  
 
 1. Clona este repositorio en tu local: (si no tienes git instalado deberás descargarlo y descomprimirlo)
@@ -120,7 +120,7 @@ npm install
 ```
 
 
-
+***
 ### Ejecución de pruebas Ejercicio 2:
 
 Se recomienda ejecutar las pruebas con la interfaz gráfica de cypress para poder seleccionar el navegador, puede hacerse con:
@@ -137,7 +137,7 @@ En consola, dentro del directorio PRUEBA_TECNICA_MERLIN_SOFTWARE:
 npm test
 ```
 
-
+***
 ### Ejecución de pruebas Ejercicio 3:
 
 Para ejecutar los test con Newman:
